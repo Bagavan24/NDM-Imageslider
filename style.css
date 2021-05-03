@@ -51,7 +51,7 @@ img{
 
 
 .text-box span{
-    background: red;
+    background: rgb(250, 5, 5);
     height: 1px;
     width: 100px;
     position: absolute;
